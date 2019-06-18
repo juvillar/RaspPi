@@ -16,7 +16,7 @@ with radio transmission to risk losing ALL of the data
 that could have been collected.
 
 The only thing that would have been different is that
-I (ryan) changed all the ui "print" statements to out.write()
+I changed all the ui "print" statements to out.write()
 which appended to a file in the local directory. The rest of the code
 is as it was the day of the launch.
 
